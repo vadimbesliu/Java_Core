@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task3 {
+ class Task3 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Introduce a number to check if it is palindrome");

@@ -1,4 +1,4 @@
-public class Task2 {
+ class Task2 {
     public static void main(String[] args) {
         String asd="The quick brown fox";
         String reversed="";

@@ -1,4 +1,4 @@
-public class Task4 {
+ class Task4 {
     public static void main(String[] args) {
         int numbers=0;
         int letters=0;
