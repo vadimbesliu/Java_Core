@@ -1,3 +1,5 @@
+package Task2_Java_OOP;
+
 public class Manager extends Employee {
     Employee e=new Employee();
     public double getSalary(){

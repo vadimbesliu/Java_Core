@@ -1,4 +1,6 @@
- class Task2 {
+package Task1_Java_Core;
+
+class Task2 {
     public static void main(String[] args) {
         String asd="The quick brown fox";
         String reversed="";

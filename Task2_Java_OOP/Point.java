@@ -1,3 +1,5 @@
+package Task2_Java_OOP;
+
 public class Point {
     private int x;
     private int y;

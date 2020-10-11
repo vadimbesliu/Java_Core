@@ -1,4 +1,6 @@
- class Task4 {
+package Task1_Java_Core;
+
+class Task4 {
     public static void main(String[] args) {
         int numbers=0;
         int letters=0;

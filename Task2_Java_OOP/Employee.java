@@ -1,3 +1,5 @@
+package Task2_Java_OOP;
+
 public class Employee {
     private double tariffPerHour=5.5;
     public int hours;
