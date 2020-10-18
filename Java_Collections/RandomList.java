@@ -31,7 +31,7 @@ public class RandomList {
             }
         }
         else if (userInput==2){
-            Collections.sort(list1);
+            Collections.sort(list1, new ComparByAge());
             for(FootballPlayer footballPlayer : list1){
                 System.out.println(footballPlayer);
             }
