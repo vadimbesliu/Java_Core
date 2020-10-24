@@ -1,0 +1,144 @@
+[
+  {
+    "ReservoirDogs": {
+      "hasOscar": true,
+      "releaseYear": 1992,
+      "duration": "1h 39min",
+      "markImdb": 8.3,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "actors": [
+        {
+          "firstName": "Harvey ",
+          "lastName": "Keitel",
+          "genre": "Male"
+        },
+        {
+          "firstName": "Tom ",
+          "lastName": "Roth",
+          "genre": "Male"
+        },
+        {
+          "firstName": "Michael ",
+          "lastName": "Madsen",
+          "genre": "Male"
+        }
+      ]
+    },
+    "InglouriousBastards": {
+      "hasOscar": true,
+      "releaseYear": 2009,
+      "duration": "2h 33min",
+      "markImdb": 8.3,
+      "genre": [
+        "Adventure",
+        "Drama",
+        "War"
+      ],
+      "actors": [
+        {
+          "firstName": "Brad ",
+          "lastName": "Pitt",
+          "genre": "Male"
+        },
+        {
+          "firstName": "Melanie ",
+          "lastName": "Laurent",
+          "genre": "Female"
+        },
+        {
+          "firstName": "Christoph ",
+          "lastName": "Waltz",
+          "genre": "Male"
+        }
+      ]
+    },
+    "DjangoUnchained": {
+      "hasOscar": false,
+      "releaseYear": 2012,
+      "duration": "2h 45min",
+      "markImdb": 8.4,
+      "genre": [
+        "Drama",
+        "Western"
+      ],
+      "actors": [
+        {
+          "firstName": "Jamie ",
+          "lastName": "Foxx",
+          "genre": "Male"
+        },
+        {
+          "firstName": "Kerry ",
+          "lastName": "Washington",
+          "genre": "Female"
+        },
+        {
+          "firstName": "Leonardo ",
+          "lastName": "DiCaprio",
+          "genre": "Male"
+        }
+      ]
+    },
+    "TheHatefulEight ": {
+      "hasOscar" : true,
+      "releaseYear": 2015,
+      "duration": "2h 48min",
+      "markImdb": 7.8,
+      "genre": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "actors": [
+        {
+          "firstName": "Samuel ",
+          "middleName": "Leroy",
+          "lastName": "Jackson",
+          "genre": "Male"
+        },
+        {
+          "firstName": "Jennifer",
+          "middleName": "Jason",
+          "lastName": "Leigh",
+          "genre": "Female"
+        },
+        {
+          "firstName": "Kurt ",
+          "lastName": "Russel",
+          "genre": "Male"
+        }
+      ]
+    },
+    "OnceUponATimeInHollywood": {
+      "hasOscar": true,
+      "releaseYear": 2019,
+      "duration": "2h 41min",
+      "markImdb": 7.6,
+      "genre": [
+        "Crime",
+        "Drama"
+      ],
+      "actors": [
+        {
+          "firstName": "Leonardo ",
+          "lastName": "DiCaprio",
+          "genre": "Male"
+        },
+        {
+          "firstName": "Margot",
+          "lastName": "Robbie",
+          "genre": "Female"
+        },
+        {
+          "firstName": "Brad ",
+          "lastName": "Pitt",
+          "genre": "Male"
+        }
+      ]
+    }
+  }
+]
